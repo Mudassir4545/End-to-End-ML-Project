@@ -4,7 +4,7 @@ COLUMNS:
   citric acid: float64
   residual sugar: float64
   chlorides: float64
-  free sulfer dioxide: float64
+  free sulfur dioxide: float64
   total sulfur dioxide: float64
   density: float64
   pH: float64
@@ -13,5 +13,5 @@ COLUMNS:
   quality: int64
 
 
-  TARGET_COLUMN:
-    name : quality
+TARGET_COLUMN:
+  name: quality
