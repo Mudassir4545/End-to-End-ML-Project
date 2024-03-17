@@ -20,3 +20,55 @@
 [2024-03-17 22:58:23,684: INFO: common: yaml file: params.yaml loaded successfully]
 [2024-03-17 23:08:43,424: INFO: common: yaml file: config\config.yaml loaded successfully]
 [2024-03-17 23:08:43,425: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:09:03,656: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:09:03,658: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:10:53,049: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:10:53,050: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:11:39,438: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:11:39,446: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:11:39,449: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-17 23:14:05,070: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:14:05,071: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:14:05,074: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-17 23:35:38,024: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:35:38,026: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:35:38,028: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-17 23:35:38,030: INFO: common: created directory at: artifacts]
+[2024-03-17 23:38:19,937: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:38:19,938: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:38:19,941: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-17 23:38:19,942: INFO: common: created directory at: artifacts]
+[2024-03-17 23:38:19,943: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-17 23:40:24,521: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-17 23:40:24,523: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-17 23:40:24,524: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-17 23:40:24,526: INFO: common: created directory at: artifacts]
+[2024-03-17 23:40:24,527: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-17 23:40:25,648: INFO: 3819160915: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 20992
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "ede30ea6f5e7b8b5ae9f5f93c9cccb311c74885c5fc3ca76bcaf58a43fb1723b"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CDEA:2C04:533407:6530C3:65F73910
+Accept-Ranges: bytes
+Date: Sun, 17 Mar 2024 18:40:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990022-FJR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1710700817.141372,VS0,VE359
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5c64ff9103f92d4618584f32e8552cad6a99f8db
+Expires: Sun, 17 Mar 2024 18:45:17 GMT
+Source-Age: 0
+
+]
+[2024-03-17 23:40:25,683: INFO: common: created directory at: artifacts/data_ingestion]
